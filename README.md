@@ -1,2 +1,5 @@
 # SortingSearchingAlgorithm
-practice of searching & sorting algoritm 
+practice of 
+1> searching algoritm 
+2> sorting algoritm 
+3> Tree traversal
